@@ -209,7 +209,7 @@
 // console.log(arr.toString());
 
 
-const n = 0;
-const b1 = !!n;
-const b2 = Boolean(n);
-console.log(n, b1, b2);
+// const n = 0;
+// const b1 = !!n;
+// const b2 = Boolean(n);
+// console.log(n, b1, b2);
