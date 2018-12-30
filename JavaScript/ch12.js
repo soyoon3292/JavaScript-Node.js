@@ -99,7 +99,7 @@
 
 // class FibonacciSequence {
 //     [Symbol.iterator]() {
-//         let a = 1, b = 1;
+//         let a = 0, b = 1;
 //         return {
 //             next() {
 //                 let rval = { value: b, done: false };
